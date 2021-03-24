@@ -2,3 +2,5 @@ add some txt
 
 aadded
 sme
+
+added some  file in one.txt
